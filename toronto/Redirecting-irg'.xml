@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Toronto Transit Commission 2015.">
+<vehicle id="4140" routeTag="505" dirTag="505_0_505" lat="43.667717" lon="-79.353348" secsSinceReport="10" predictable="true" heading="357"/>
+<vehicle id="4123" routeTag="505" dirTag="505_0_505" lat="43.651199" lon="-79.445267" secsSinceReport="19" predictable="true" heading="109"/>
+<vehicle id="4039" routeTag="505" dirTag="505_1_505" lat="43.649448" lon="-79.425018" secsSinceReport="2" predictable="true" heading="272"/>
+<vehicle id="4035" routeTag="505" dirTag="505_1_505" lat="43.65535" lon="-79.38575" secsSinceReport="19" predictable="true" heading="255"/>
+<vehicle id="4051" routeTag="505" dirTag="505_0_505" lat="43.656883" lon="-79.375336" secsSinceReport="13" predictable="true" heading="73"/>
+<vehicle id="4186" routeTag="505" dirTag="505_1_505" lat="43.6558149" lon="-79.3834" secsSinceReport="17" predictable="true" heading="253"/>
+<vehicle id="4011" routeTag="505" dirTag="505_1_505" lat="43.674885" lon="-79.357651" secsSinceReport="19" predictable="true" heading="148"/>
+<vehicle id="4137" routeTag="505" dirTag="505_1_505" lat="43.677185" lon="-79.358231" secsSinceReport="10" predictable="true" heading="216"/>
+<vehicle id="4071" routeTag="505" dirTag="505_0_505" lat="43.652233" lon="-79.406303" secsSinceReport="1" predictable="true" heading="75"/>
+<vehicle id="4073" routeTag="505" dirTag="505_1_505" lat="43.663616" lon="-79.351784" secsSinceReport="12" predictable="true" heading="163"/>
+<vehicle id="4002" routeTag="505" dirTag="505_0_505" lat="43.656418" lon="-79.379868" secsSinceReport="17" predictable="true" heading="122"/>
+<vehicle id="4134" routeTag="505" dirTag="505_0_505" lat="43.654217" lon="-79.451836" secsSinceReport="16" predictable="true" heading="168"/>
+<vehicle id="4079" routeTag="505" dirTag="505_0_505" lat="43.649467" lon="-79.42498" secsSinceReport="18" predictable="true" heading="92"/>
+<vehicle id="4000" routeTag="505" dirTag="505_0_505" lat="43.656685" lon="-79.4534" secsSinceReport="23" predictable="true" heading="248"/>
+<vehicle id="4031" routeTag="505" dirTag="505_1_505" lat="43.656567" lon="-79.37693" secsSinceReport="13" predictable="true" heading="253"/>
+<vehicle id="4147" routeTag="505" dirTag="505_1_505" lat="43.6496009" lon="-79.429466" secsSinceReport="18" predictable="true" heading="272"/>
+<vehicle id="4014" routeTag="505" dirTag="505_0_505" lat="43.655766" lon="-79.384583" secsSinceReport="19" predictable="true" heading="73"/>
+<vehicle id="4025" routeTag="505" dirTag="505_1_505" lat="43.654385" lon="-79.391083" secsSinceReport="2" predictable="true" heading="261"/>
+<vehicle id="4093" routeTag="505" dirTag="505_0_505" lat="43.653252" lon="-79.396484" secsSinceReport="17" predictable="true" heading="79"/>
+<lastTime time="1446831471008"/>
+</body>
